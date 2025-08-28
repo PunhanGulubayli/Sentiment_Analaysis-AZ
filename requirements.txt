@@ -1,0 +1,6 @@
+gradio
+numpy
+fer
+pandas
+scikit-learn
+deep-translator
